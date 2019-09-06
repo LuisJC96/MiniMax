@@ -1,0 +1,11 @@
+D:\9no\Sistemas Inteligentes\MiniMax\MiniMax\bin\Debug\netcoreapp2.1\MiniMax.deps.json
+D:\9no\Sistemas Inteligentes\MiniMax\MiniMax\bin\Debug\netcoreapp2.1\MiniMax.runtimeconfig.json
+D:\9no\Sistemas Inteligentes\MiniMax\MiniMax\bin\Debug\netcoreapp2.1\MiniMax.runtimeconfig.dev.json
+D:\9no\Sistemas Inteligentes\MiniMax\MiniMax\bin\Debug\netcoreapp2.1\MiniMax.dll
+D:\9no\Sistemas Inteligentes\MiniMax\MiniMax\bin\Debug\netcoreapp2.1\MiniMax.pdb
+D:\9no\Sistemas Inteligentes\MiniMax\MiniMax\obj\Debug\netcoreapp2.1\MiniMax.csprojAssemblyReference.cache
+D:\9no\Sistemas Inteligentes\MiniMax\MiniMax\obj\Debug\netcoreapp2.1\MiniMax.csproj.CoreCompileInputs.cache
+D:\9no\Sistemas Inteligentes\MiniMax\MiniMax\obj\Debug\netcoreapp2.1\MiniMax.AssemblyInfoInputs.cache
+D:\9no\Sistemas Inteligentes\MiniMax\MiniMax\obj\Debug\netcoreapp2.1\MiniMax.AssemblyInfo.cs
+D:\9no\Sistemas Inteligentes\MiniMax\MiniMax\obj\Debug\netcoreapp2.1\MiniMax.dll
+D:\9no\Sistemas Inteligentes\MiniMax\MiniMax\obj\Debug\netcoreapp2.1\MiniMax.pdb
